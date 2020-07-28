@@ -1,4 +1,4 @@
-# probabilistic_programming_stuff
+# Probabilistic programming stuff
 Some pet project. Archiving it here until i can fix the Pyro bug. Or I can just leave it here to rot.
 
 ## Edit: 2020-07-28
